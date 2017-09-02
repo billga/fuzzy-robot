@@ -8,7 +8,7 @@ It's all about the meatware.
 `git clone `_github-https-url_  
 `git status`  
 `git add `_someNewFile.txt_  
-`git commit -m "Adding some new file"`  
+`git commit -m "I'm committed to these changes"`  
 `git push origin master`  
 and of course  
 `git pull origin master`  
