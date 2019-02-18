@@ -12,3 +12,8 @@ It's all about the meatware.
 `git push origin master`  
 and of course  
 `git pull origin master`  
+
+To create a virtualenv: 
+`python3 -m virtualenv venv`
+then: 
+`source venv/bin/activate`
