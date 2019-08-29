@@ -15,6 +15,6 @@ and of course
 `git pull origin master`  
 
 To create a virtualenv: 
-`python3 -m virtualenv venv`
+`python3 -m venv [name]`
 then: 
-`source venv/bin/activate`
+`source [name]/bin/activate`
