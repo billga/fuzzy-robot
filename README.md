@@ -7,7 +7,7 @@ It's all about the meatware.
 `git config --global --list`  
 `git clone `_github-https-url_  
 `git status`  
-`git branch develop` and `git branch -a`
+`git branch develop` and `git branch -a`  
 `git add `_someNewFile.txt_  
 `git commit -m "I'm committed to these changes"`  
 `git push origin master`  
